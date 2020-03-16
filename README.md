@@ -1,7 +1,7 @@
 # DreamFactory
 CS2102 AY17/18 Team 8 Crowdfunding
 
-This is a crowdfunding website created from Bootstrap, HTML and CSS. 
+This is a crowdfunding website created from Bootstrap, HTML, PHP and CSS and using SQL Database. 
 
 ## How to Run the Database and Application
 
