@@ -1,5 +1,7 @@
 # DreamFactory
-CS2102 AY17/18 Team 8 crowdfunding
+CS2102 AY17/18 Team 8 Crowdfunding
+
+This is a crowdfunding website created from Bootstrap, HTML and CSS. 
 
 ## How to Run the Database and Application
 
