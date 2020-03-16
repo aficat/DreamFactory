@@ -4,20 +4,28 @@ CS2102 AY17/18 Team 8 Crowdfunding
 This is a crowdfunding website created from Bootstrap, HTML, PHP and CSS and using SQL Database. 
 
 ## How to Run the Database and Application
+1. Open Git Bash/ Command Prompt/ Terminal. Clone repository.
 
-1) localhost/phpmyadmin/index.php
+```
+git clone https://github.com/aficat/dreamfactory.git 
+```
+2. Navigate to project folder
 
+```
+cd dreamfactory
+```
+3. Run application.
+
+4. Go to `localhost/phpmyadmin/index.php` on your browser.
+```
 Login to PHPMyAdmin.
-
 username: root
-
 password: <your_password>
+```
 
-2) Import SQL file `dreamfactory with data` into database.
+4. Import SQL file `dreamfactory with data` into database.
 
-3) localhost/homepage.php -> main page
-
-Navigate to other pages from here.
+5. Go to `localhost/homepage.php` to run the homepage. Navigate to other pages from here.
 
 ## Screenshots of Application
 1. HomePage
